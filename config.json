@@ -1,0 +1,10 @@
+{
+  "globalTraits": {
+    "defaultTimeLimit": { "seconds": 5 },
+    "maximumTimeLimit": { "seconds": 30 },
+    "tags": ["ci"],
+    "serialized": true,
+    "retryCount": 3,
+    "timeLimitGranularity": { "seconds": 1 }
+  }
+}
