@@ -92,7 +92,7 @@ CLI flags require the [modified SwiftPM](https://github.com/YooGyeongMo/swift-pa
 
 Only specified flags apply. Unspecified settings use defaults.
 
-## Before / After
+## Before / After (JSON config or CLI flags)
 
 | | Before | After |
 |---|---|---|
